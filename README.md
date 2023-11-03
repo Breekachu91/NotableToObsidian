@@ -1,6 +1,7 @@
 # NotableToObsidian - WIP
 ## Description 
-A python script to move your Notable notes to a Obsidian Vault while modifying the syntax for tags, note links, etc. 
+A python script to convert and move your Notable notes to a Obsidian Vault. This changes the syntax of tags, links, and attachments
+to comply with Obsidian. 
 
 *This is a work in progress, some additional functionality is to come.*
 
